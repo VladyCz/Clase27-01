@@ -1,0 +1,31 @@
+
+*
+{font-family: Georgia;
+    margin:30px;
+}
+body
+{background-color: rgb(21, 119, 119);}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dotted; 
+    color: red;
+    text-align: center;
+    text-decoration: overline;
+    text-transform:uppercase;
+}
+p{
+    color:rgb(5, 7, 10);
+    text-align: justify;
+    border-radius: 30px;
+    border-style: solid;
+    padding: 20px;
+    text-align:justify;
+
+}
+
+img
+{
+    width:37%;
+}
